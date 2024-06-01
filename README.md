@@ -1,4 +1,3 @@
-
 # JU Hall Reading Room Management System
 
 This repository contains the code for the JU Hall Reading Room Management System, a Java-based application designed to manage reading room resources efficiently. The system helps in keeping track of books, student activities, and other relevant data.
